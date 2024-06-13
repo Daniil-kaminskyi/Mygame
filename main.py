@@ -9,7 +9,7 @@ from menu import Menu
 pygame.init()
 run = True
 font = pygame.font.Font("Graphics/GorgeousPixel.ttf", 30)
-text = font.render("score: 0", 0, (255, 255, 255))
+text = font.render("score: 0", 0, (253, 255, 255))
 
 npc = NPC(500, 250)
 player = Player()
