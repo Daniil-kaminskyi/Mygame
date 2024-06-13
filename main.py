@@ -1,5 +1,3 @@
-import random
-
 import pygame
 from window import window
 from player import Player
